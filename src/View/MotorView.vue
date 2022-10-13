@@ -1,5 +1,8 @@
 <template>
      <div class="motor">
+      <div class="data">
+        <h1>Ini Data Motor</h1>
+      </div>
       <div class="mtr">
     <form @submit.prevent="add"  ><br/><br/>
         <input type="hidden" v-model="form.id" required>
@@ -140,6 +143,10 @@ td {
   margin-left: 10%;
 }
 .mtr{
+  text-align: center;
+  color: white;
+}
+.data{
   text-align: center;
   color: white;
 }
