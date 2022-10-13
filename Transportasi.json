@@ -1,0 +1,222 @@
+{
+  "motors": [
+    {
+      "merk": "Honda",
+      "tipe": "Cbr 150r",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 36.741.000",
+      "image": "https://asset.kompas.com/crops/S9e4GG4br8MBCQoqJYnGPHQ0org=/141x0:628x325/750x500/data/photo/2022/08/01/62e7a16db6346.png",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "merk": "Kawasaki",
+      "tipe": "Zx-25rr Abs",
+      "harga": " Rp 116.000.000",
+      "bahan": "Bensin Pertamax Turbo",
+      "image": "https://ardiantoyugo.com/wp-content/uploads/2022/10/kawasaki-ninja-zx-25rr-2023-1-768x474.jpg"
+    },
+    {
+      "merk": "Yamaha",
+      "tipe": "R6",
+      "bahan": "Bensin Pertamax Turbo",
+      "harga": "Rp 270.000.000",
+      "image": "https://akcdn.detik.net.id/visual/2020/11/19/yamaha-yzf-r6_169.jpeg?w=650",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "merk": "Suzuki",
+      "tipe": "GSX 250",
+      "harga": "Rp 57.240.000",
+      "bahan": "Bensin Pertamax",
+      "image": "https://asset.kompas.com/crops/kSTa8NY3b5r85JmD55SgrNoCflE=/74x8:717x437/750x500/data/photo/2022/06/01/6296a142cbdca.jpg"
+    },
+    {
+      "merk": "Yamaha",
+      "tipe": "YZF-R25",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 59.780.000",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/19/274666017.jpg",
+      "id": 4
+    }
+  ],
+  "mobils": [
+    {
+      "merk": "Toyota",
+      "tipe": "Supra MK4",
+      "bahan": "Bensin Shell V-Power ",
+      "harga": "Rp 2.500,000,000",
+      "image": "https://pemerintahkota.com/wp-content/uploads/2021/11/toyota-supraa.jpg",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "merk": "Honda",
+      "tipe": "Civic Turbo",
+      "bahan": "Bensin Shell V-Power ",
+      "harga": "Rp 575.000.000",
+      "image": "https://imgcdnblog.carvaganza.com/wp-content/uploads/2020/02/Honda-Civic-Hatchback_03.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Honda",
+      "tipe": "Honda Brio",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 237.400.000",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/14/1995/honda-brio-front-medium-view-587795.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Toyota",
+      "tipe": "All New Avanza",
+      "bahan": "Bensin Pertalite",
+      "harga": " Rp 255.100.000",
+      "image": "https://s1.bukalapak.com/bukalapak-kontenz-production/content_attachments/75636/original/Varian_All_New_Avanza_2022_main.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Mitsubishi",
+      "tipe": "Pajero sport",
+      "bahan": "Bensin Pertamax",
+      "harga": "Rp 712.500,000",
+      "image": "https://cdn1-production-images-kly.akamaized.net/uueBh71rSaUEPEEn5gbefh1o1EU=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3378900/original/019671100_1613534026-pajero_sport.jpg"
+    }
+  ],
+  "Bus": [
+    {
+      "merk": "Mercedes-Benz",
+      "tipe": "Po Haryanto(SHD)",
+      "bahan": "Semarang-Bogor",
+      "harga": "Rp 220.000",
+      "image": "https://i.ytimg.com/vi/Y_KPLkQlu7Y/hqdefault.jpg",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "merk": "Mercedes-Benz",
+      "tipe": "Pandawa 87(SHD)",
+      "bahan": "Jakarta-Surabaya-Banyuwangi",
+      "harga": "Rp 270.000",
+      "image": "https://i.ytimg.com/vi/eZbLbJRWl7s/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Mercedes-Benz",
+      "tipe": "Rosalia indah(sleeper seat)",
+      "bahan": "Jakarta-Jogja",
+      "harga": "Rp 435.000",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2021/10/28/pengalaman-naik-sleeper-class-po-rosalia-indah-7_169.jpeg?w=1200"
+    },
+    {
+      "id": 3,
+      "merk": "Mercedes-Benz",
+      "tipe": "Juragan 99(double decker)",
+      "bahan": "Jakarta-Malang",
+      "harga": "Rp 550.000",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2022/07/13/bus-double-decker-po-juragan-99-garapan-karoseri-adiputro-8.jpeg?w=700&q=90"
+    },
+    {
+      "id": 4,
+      "merk": "Mercedes-Benz",
+      "tipe": "Sinar Jaya(executive class)",
+      "bahan": "Pekalongan-Wonosobo",
+      "harga": "Rp 250.000",
+      "image": "https://ticbus.com/wp-content/uploads/2020/10/tiket-bus-sinar-jaya.jpg"
+    }
+  ],
+  "kapals": [
+    {
+      "merk": "Kapal angkatan laut",
+      "tipe": "Kapal angkatan laut ini merupakan kapal militer yang berfungsi untuk membantu operasi militer di daerah laut. Biasanya kapal-kapal tersebut adalah kapal induk, kapal selam dan kapal perang.",
+      "bahan": "Marine Fuel Oil (MFO)  ",
+      "harga": "Rp 180 triliun.",
+      "image": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/07/12/60ec2f2fc1e61-viva-militer-kapal-perang-kri-teluk-youtefa-522-milik-tni-angkatan-laut_1265_711.jpg",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "merk": "Kapal kargo",
+      "tipe": "Kapal kargo atau kapal barang merupakan semua jenis kapal yang membawa muatan dan barang-barang dari suatu pelabuhan ke pelabuhan lain. Pada umumnya kapal barang ini didesain menyesuaikan tugasnya. ",
+      "bahan": "Marine Fuel Oil (MFO) ",
+      "harga": "Rp 147.000.000.000",
+      "image": "http://ngobas.com/uploads/monthly_07_2014/post-45-0-71161500-1404899028.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Kapal Pesiar",
+      "tipe": "Tujuan utama kapal pesiar digunakan oleh penumpang adalah untuk berwisata dan rekreasi. Biasanya penumpang menaiki kapal pesiar untuk menikmati hari-hari yang dihabiskan di atas kapal dengan segala kelengkapan fasilitas penginapan dan perlengkapan layaknya hotel berbintang",
+      "bahan": " Marine Fuel Oil (MFO)",
+      "harga": "Rp 9.213.630.000.000",
+      "image": "https://pict.sindonews.net/dyn/850/pena/news/2022/01/27/34/669553/mengenal-superyacht-kapal-pesiar-pribadi-para-sultan-yang-harganya-bisa-capai-rp116-miliar-hvp.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Kapal Feri",
+      "tipe": "Kapal Feri merupakan kapal transportasi yang menghubungkan pelabuhan dekat. Kapal Feri harus memenuhi syarat-syarat pelayaran di laut dan digunakan untuk menyelenggarakan perhubungan tetap. Kapal feri dapat membuat penumpang mengeluarkan biaya yang lebih kecil dibandingkan jembatan atau terowongan untuk membuat transit",
+      "bahan": "Marine Fuel Oil (MFO) ",
+      "harga": "Rp 300.000.000.000",
+      "image": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/11/26/1361431419.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Kapal Selam",
+      "tipe": "Kapal selam merupakan kapal yang dimiliki oleh sebagian besar angkatan laut. Kapal selam juga digunakan untuk bertugas di kedalaman yang tidak sesuai untuk penyelam manusia dan ilmu pengetahuan air tawar maupun laut selain digunakan untuk kepentingan militer.",
+      "bahan": "Marine Fuel Oil (MFO) ",
+      "harga": "Rp 4.800.000.000.000",
+      "image": "https://independensi.com/wp-content/uploads/2020/01/Kapal-Selam.jpg"
+    }
+  ],
+  "keretas": [
+    {
+      "merk": "Lion Air",
+      "tipe": "Class Economy",
+      "bahan": "Jakarta-Medan",
+      "hari": "Setiap hari",
+      "Jam": "08.30",
+      "harga": "Rp 1.654.000",
+      "image": "https://cdn0-production-images-kly.akamaized.net/Cr2yiCZ0QU6Cgivd1KkLe6DG8Fk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2335638/original/021635600_1534758781-IMG-20180820-WA0009.jpg",
+      "id": 0
+    },
+    {
+      "merk": "Garuda Indonesia",
+      "tipe": "Class Economy",
+      "bahan": "Semarang-Palembang",
+      "hari": "Setiap hari",
+      "Jam": "10.45",
+      "harga": "Rp 4.230.000",
+      "image": "https://cdn0-production-images-kly.akamaized.net/D7h7X_HNykRZoRHcCOBADJx2cso=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3264763/original/040464400_1602478939-IMG-20201012-WA0010.jpg ",
+      "id": 1
+    },
+    {
+      "merk": "Air asia",
+      "tipe": "Ekonomi premium",
+      "bahan": "Jakarta-Singapura",
+      "hari": "Senin",
+      "Jam": "13.00",
+      "harga": "Rp 9.890.000",
+      "image": "https://i0.wp.com/pointsgeek.id/wp-content/uploads/2019/10/A320ceo-AirAsia.jpg?fit=1200%2C600&ssl=1",
+      "id": 2
+    },
+    {
+      "merk": "Batik Air",
+      "tipe": "Ekonomi premium",
+      "bahan": "Semarang-Jepang",
+      "hari": "Sabtu",
+      "Jam": "19.30",
+      "harga": "Rp 12.600.000",
+      "image": "https://sijorikepri.com/wp-content/uploads/2022/02/Pesawat-Batik-Air.jpg",
+      "id": 3
+    },
+    {
+      "merk": "Citikink",
+      "tipe": "Class Economy",
+      "bahan": "Jakarta-Korea Selatan",
+      "hari": "Rabu",
+      "Jam": "16.30",
+      "harga": "Rp 5.670.000",
+      "image": "https://i2.wp.com/pointsgeek.id/wp-content/uploads/2020/01/CITILINK-Airbus-A330-900neo.jpg?fit=1200%2C601&ssl=1",
+      "id": 4
+    }
+  ]
+}
