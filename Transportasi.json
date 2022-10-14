@@ -88,7 +88,7 @@
       "merk": "Mercedes-Benz",
       "tipe": "Po Haryanto(SHD)",
       "bahan": "Semarang-Bogor",
-      "harga": "Rp 220.000",
+      "harga": "Rp 210.000",
       "image": "https://i.ytimg.com/vi/Y_KPLkQlu7Y/hqdefault.jpg",
       "id": 0
     },
@@ -135,20 +135,20 @@
       "id": 0
     },
     {
-      "id": 1,
       "merk": "Kapal kargo",
       "tipe": "Kapal kargo atau kapal barang merupakan semua jenis kapal yang membawa muatan dan barang-barang dari suatu pelabuhan ke pelabuhan lain. Pada umumnya kapal barang ini didesain menyesuaikan tugasnya. ",
       "bahan": "Marine Fuel Oil (MFO) ",
       "harga": "Rp 147.000.000.000",
-      "image": "http://ngobas.com/uploads/monthly_07_2014/post-45-0-71161500-1404899028.jpg"
+      "image": "http://ngobas.com/uploads/monthly_07_2014/post-45-0-71161500-1404899028.jpg",
+      "id": 1
     },
     {
-      "id": 2,
       "merk": "Kapal Pesiar",
       "tipe": "Tujuan utama kapal pesiar digunakan oleh penumpang adalah untuk berwisata dan rekreasi. Biasanya penumpang menaiki kapal pesiar untuk menikmati hari-hari yang dihabiskan di atas kapal dengan segala kelengkapan fasilitas penginapan dan perlengkapan layaknya hotel berbintang",
       "bahan": " Marine Fuel Oil (MFO)",
       "harga": "Rp 9.213.630.000.000",
-      "image": "https://pict.sindonews.net/dyn/850/pena/news/2022/01/27/34/669553/mengenal-superyacht-kapal-pesiar-pribadi-para-sultan-yang-harganya-bisa-capai-rp116-miliar-hvp.jpg"
+      "image": "https://pict.sindonews.net/dyn/850/pena/news/2022/01/27/34/669553/mengenal-superyacht-kapal-pesiar-pribadi-para-sultan-yang-harganya-bisa-capai-rp116-miliar-hvp.jpg",
+      "id": 2
     },
     {
       "id": 3,
